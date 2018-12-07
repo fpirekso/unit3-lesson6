@@ -1,0 +1,6 @@
+name = input('What is your name? ')
+print('EW, ' + name.upper() + ' IS SUCH AN UGLY NAME!')
+color = input('What is your favorite color? ')
+print('UGH, I HATE ' + color.upper() + 'IT IS NASTY!')
+subject = input('What is your favorite subject in school?  ')
+print('UGH, I HATE ' + subject.upper() + ' I HATE EVERYTHING!')
